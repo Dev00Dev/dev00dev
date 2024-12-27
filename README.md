@@ -15,7 +15,7 @@
 - 🌱 **I am currently learning:** recommendation algorithm optimization and creating modern user interfaces.
 - 📫 **Contact me:** [dev00@gmail.com](mailto:dev00@gmail.com) | [LinkedIn](https://linkedin.com/in/dev00)
 ```
-
+[![Discord Presence](https://lanyard.kyrie25.dev/api/778364296316190800)](https://discord.com/users/778364296316190800)
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
