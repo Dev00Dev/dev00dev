@@ -11,7 +11,7 @@
 ```
 
 ```
-- 🔭 **Currently, I am working on:** An **[ecological web services project and a mobile OS](https://github.com/)** with an aesthetic and functional theme.
+- 🔭 Currently, I am working on: An Ecological web services project and a mobile OS with an aesthetic and functional theme.
 - 🌱 **I am currently learning:** recommendation algorithm optimization and creating modern user interfaces.
 - 📫 **Contact me:** [dev00@gmail.com](mailto:dev00@gmail.com) | [LinkedIn](https://linkedin.com/in/dev00)
 ```
