@@ -33,7 +33,7 @@ On a visité mon profil :
 ### 🛠️ Langages et outils préférés :
 - **Frontend :** HTML | CSS | JavaScript | React  
 - **Backend :** Node.js | Express   
-- **Outils :** Git | Docker | VS Code  
+- **Outils :** Git | Docker | VS Code | ChatGPT
 
 ---
 
