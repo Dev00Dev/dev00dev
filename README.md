@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/JkymYrF/astolfogit.gif" />
+  <img src="astolfogit.gif" />
 </div>
 
 
