@@ -9,14 +9,6 @@
 
 ---
 
-### **Heure actuelle :**  
-<details>
-<summary>Voir l'heure 👀</summary>
-Il est actuellement **{{currentTime}}** chez moi !
-</details>
-
----
-
 [![Langue anglaise](https://img.shields.io/badge/See%20in%20English-0077B5?style=for-the-badge&logo=github)](https://github.com/dev00)  
 > Change la langue ici !
 
