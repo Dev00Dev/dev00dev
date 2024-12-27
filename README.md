@@ -1,45 +1,35 @@
-# 👋 **Bonjour, moi c'est Dev00** !  
-**(ou Bonsoir si tu lis ceci plus tard 😄)**
+import tkinter as tk
+from tkinter import ttk
 
-### 🌟 Bienvenue sur mon GitHub !
+# Créer la fenêtre principale
+root = tk.Tk()
+root.title("Interface avec cases et widgets")
 
-- 🔭 **Actuellement, je travaille sur :** Un **[projet de services web écologiques et un OS Mobile](https://github.com/)** avec un thème esthétique et fonctionnel.
-- 🌱 **J'apprends actuellement :** l'optimisation des algorithmes de recommandation et la création d'interfaces utilisateur modernes.
-- 📫 **Contactez-moi :** [dev00@gmail.com](mailto:dev00@gmail.com) | [LinkedIn](https://linkedin.com/in/dev00)
+# Créer une bannière avec une image (via un lien ou fichier local)
+banner_url = "https://via.placeholder.com/600x100.png?text=Bannière"  # Remplace par ton lien d'image
+banner_image = tk.PhotoImage(data=banner_url)  # Si tu utilises un lien, tu dois télécharger l'image
+banner_label = tk.Label(root, image=banner_image)
+banner_label.pack()
 
----
+# Créer un conteneur principal pour organiser les cases
+main_frame = tk.Frame(root)
+main_frame.pack(pady=10)
 
-[![Langue anglaise](https://img.shields.io/badge/See%20in%20English-0077B5?style=for-the-badge&logo=github)](https://github.com/Dev00Dev/dev00dev/blob/main/READMEen.md)  
-> Read me in English !
+# Créer des petites cases avec des widgets à l'intérieur
+for i in range(4):  # Change le nombre de cases selon besoin
+    case_frame = tk.Frame(main_frame, width=100, height=100, borderwidth=2, relief="solid")
+    case_frame.grid(row=i // 2, column=i % 2, padx=5, pady=5)  # Organiser les cases en 2x2
 
----
-On a visité mon profil : 
-<img src="https://profile-counter.glitch.me/{dev00}/count.svg" alt="dev00 - Nombre de visiteurs" /> fois
+    label = tk.Label(case_frame, text=f"Case {i + 1}")
+    label.pack(pady=10)
+    
+    # Ajouter un widget dans chaque case
+    button = ttk.Button(case_frame, text="Widget")
+    button.pack()
 
----
+# Ajouter un bouton à la fin pour tester l'interface
+test_button = ttk.Button(root, text="Test Bouton", command=lambda: print("Test bouton cliqué"))
+test_button.pack(pady=20)
 
-### ✨ Quelques faits intéressants sur moi :  
-- 🎨 Passionné par les designs modernes et minimalistes.
-- 💻 Toujours prêt à apprendre et expérimenter de nouvelles technologies.
-- 🌍 J'adore contribuer à des projets open-source qui apportent un impact positif.  
-
----
-
-### 🚀 Mes projets récents :  
-ça va venir...
-
----
-
-### 🛠️ Langages et outils préférés :
-- **Frontend :** HTML | CSS | JavaScript | React  
-- **Backend :** Node.js | Express   
-- **Outils :** Git | Docker | VS Code | ChatGPT
-
----
-
-### 🖋️ Un petit widget amusant :
-![Funny GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev00dev&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true)
-
----
-
-Merci pour votre visite ! 🌟 N'hésitez pas à suivre mes projets et me laisser une étoile ⭐.
+# Lancer l'interface
+root.mainloop()
