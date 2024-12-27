@@ -13,8 +13,8 @@
 > Read me in English !
 
 ---
-
-<img src="https://profile-counter.glitch.me/{dev00}/count.svg" alt="dev00 - Nombre de visiteurs" />
+On a visité mon profil : 
+<img src="https://profile-counter.glitch.me/{dev00}/count.svg" alt="dev00 - Nombre de visiteurs" /> fois
 
 ---
 
