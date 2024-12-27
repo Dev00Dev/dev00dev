@@ -9,8 +9,8 @@
 
 ---
 
-[![Langue anglaise](https://img.shields.io/badge/See%20in%20English-0077B5?style=for-the-badge&logo=github)](https://github.com/dev00)  
-> Change la langue ici !
+[![Langue anglaise](https://img.shields.io/badge/See%20in%20English-0077B5?style=for-the-badge&logo=github)](https://github.com/Dev00Dev/dev00dev/blob/main/READMEen.md)  
+> Read me in English !
 
 ---
 
