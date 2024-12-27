@@ -13,6 +13,7 @@
 ```
 - 🔭 Currently, I am working on: An Ecological web services project and a mobile OS with an aesthetic and functional theme.
 - 🌱 I am currently learning: recommendation algorithm optimization and creating modern user interfaces.
+- ✊ Internet independence activist #freeinternet
 - 📫 Contact me : Twitter @dev00_devv
 ```
 
