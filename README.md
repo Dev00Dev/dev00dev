@@ -17,6 +17,6 @@
 ```
 
 </p>
-<a href="https://discord.com/users/1114616280138395738"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1114616280138395738?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/778364296316190800"><img align="right" width="425" src="https://lanyard.kyrie25.dev/api/778364296316190800"></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
