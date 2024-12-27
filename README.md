@@ -3,7 +3,7 @@
 
 ### 🌟 Bienvenue sur mon GitHub !
 
-- 🔭 **Actuellement, je travaille sur :** Un **[projet de services web écologique et un OS Mobile](https://github.com/)** avec un thème esthétique et fonctionnel.
+- 🔭 **Actuellement, je travaille sur :** Un **[projet de services web écologiques et un OS Mobile](https://github.com/)** avec un thème esthétique et fonctionnel.
 - 🌱 **J'apprends actuellement :** l'optimisation des algorithmes de recommandation et la création d'interfaces utilisateur modernes.
 - 📫 **Contactez-moi :** [dev00@gmail.com](mailto:dev00@gmail.com) | [LinkedIn](https://linkedin.com/in/dev00)
 
