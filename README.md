@@ -2,9 +2,8 @@
 
 ### 🌟 Bienvenue sur mon GitHub !
 
-- 🔭 **Actuellement, je travaille sur :** Un **[projet vidéo interactif](https://github.com/)** avec un thème esthétique et fonctionnel.
+- 🔭 **Actuellement, je travaille sur :** Un **[projet de services web écologique et un OS Mobile](https://github.com/)** avec un thème esthétique et fonctionnel.
 - 🌱 **J'apprends actuellement :** l'optimisation des algorithmes de recommandation et la création d'interfaces utilisateur modernes.
-- 💬 **Posez-moi des questions sur :** JavaScript, React, Node.js, ou tout ce qui concerne le développement full-stack.
 - 📫 **Contactez-moi :** [dev00@gmail.com](mailto:dev00@gmail.com) | [LinkedIn](https://linkedin.com/in/dev00)
 
 ---
@@ -23,18 +22,13 @@
 ---
 
 ### 🚀 Mes projets récents :  
-- [**Video Platform**](https://github.com/dev00dev/video-platform)  
-  Un système de recommandation avancé pour vidéos.  
-
-- [**Portfolio Website**](https://github.com/dev00dev/portfolio)  
-  Un portfolio interactif pour les développeurs.
+ça va venir...
 
 ---
 
 ### 🛠️ Langages et outils préférés :
 - **Frontend :** HTML | CSS | JavaScript | React  
-- **Backend :** Node.js | Express  
-- **Base de données :** MongoDB | SQL  
+- **Backend :** Node.js | Express   
 - **Outils :** Git | Docker | VS Code  
 
 ---
