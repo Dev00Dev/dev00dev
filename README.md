@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev00dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dev00 - Langages les plus utilisés" width="400" />
-
 <img src="https://profile-counter.glitch.me/{dev00}/count.svg" alt="dev00 - Nombre de visiteurs" />
 
 ---
