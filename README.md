@@ -40,6 +40,8 @@ Rodriguetv is a video streaming service linked to Rodrigue services that only wo
 
 You can test with the little content present here : https://rodtv.ct.ws
 
+Demo video : https://rodtv.ct.ws/share/144295hvedo4209F.html
+
 ---
 
 ![alt text](https://i.goopics.net/l30rdz.png)
