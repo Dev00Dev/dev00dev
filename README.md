@@ -15,6 +15,11 @@
 - 🌱 I am currently learning: recommendation algorithm optimization and creating modern user interfaces.
 - ✊ Internet independence activist #freeinternet
 - 📫 Contact me : Twitter @dev00_devv
+
+Current/new projects:
+- Anime Art/draws share platform (imgboard)
+- Lunar (Brand)
+- Chatbot AI
 ```
 
 </p>
