@@ -4,7 +4,7 @@
 
 
 
-# Hello, I'm Dev00 💫 :  
+# Hello, I'm Dev00 💫 
 
 ```yaml
 🌟 Welcome to my GitHub!
