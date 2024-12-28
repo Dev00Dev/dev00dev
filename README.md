@@ -42,9 +42,9 @@ You can test with the little content present here : https://rodtv.ct.ws
 
 ---
 
-![alt text](https://i.goopics.net/nh71fv.png)
+![alt text](https://i.goopics.net/l30rdz.png)
 
 Serenity is an Open-source Rodrigue service for relaxation and well-being. It currently contains 4 modules.
 
-The code is here:
-You can test the service here:
+The code is here : https://github.com/Dev00Dev/rodrigueserenity
+You can test the service here : https://rodrigue-app.ct.ws/serenity/index.html?i=1
