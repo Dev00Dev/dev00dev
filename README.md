@@ -60,5 +60,5 @@ Source : EcoIndex
 
 ---
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{dev00dev}/count.svg" alt="dev00dev :: Visitor's Count" />
 
