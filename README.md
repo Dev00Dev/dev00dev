@@ -51,3 +51,14 @@ Serenity is an Open-source Rodrigue service for relaxation and well-being. It cu
 The code is here : https://github.com/Dev00Dev/rodrigueserenity
 
 You can test the service here : https://rodrigue-app.ct.ws/serenity/index.html?i=1
+
+---
+
+![alt text](https://i.goopics.net/c3g5f9.png)
+Source : EcoIndex
+
+
+---
+
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+
