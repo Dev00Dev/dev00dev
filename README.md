@@ -59,7 +59,7 @@ You can test the service here : https://rodrigue-app.ct.ws/serenity/index.html?i
 
 ---
 
-![alt text](https://i.goopics.net/c3g5f9.png)
+<img src="https://i.goopics.net/c3g5f9.png" alt="Description de l'image" width="300">
 Source : EcoIndex
 
 
