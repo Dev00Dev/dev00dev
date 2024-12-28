@@ -39,3 +39,12 @@ You can test Rodrigue services at this address: https://rodrigue-app.ct.ws
 Rodriguetv is a video streaming service linked to Rodrigue services that only works by retrieving free or broadcast-authorized videos. In the future, it will host many old films, archive videos or entertainment. To respect its ecological approach, Rordriguetv does not host any videos and simply plays via the player of another site.
 
 You can test with the little content present here : https://rodtv.ct.ws
+
+---
+
+![alt text](https://i.goopics.net/nh71fv.png)
+
+Serenity is an Open-source Rodrigue service for relaxation and well-being. It currently contains 4 modules.
+
+The code is here:
+You can test the service here:
