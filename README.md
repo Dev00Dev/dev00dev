@@ -32,6 +32,8 @@ Rodrigue (inspired by the famous French comedy by Corneille) is a set of reliabl
 
 You can test Rodrigue services at this address: https://rodrigue-app.ct.ws
 
+---
+
 ![alt text](https://i.goopics.net/tygde3.png)
 Rodriguetv is a video streaming service linked to Rodrigue services that only works by retrieving free or broadcast-authorized videos. In the future, it will host many old films, archive videos or entertainment. To respect its ecological approach, Rordriguetv does not host any videos and simply plays via the player of another site.
 
