@@ -19,7 +19,7 @@
 
 </p>
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=dev00dev=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=dev00dev&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
     </a>
 <a href="https://discord.com/users/778364296316190800"><img align="right" width="330" src="https://lanyard.kyrie25.dev/api/778364296316190800"></a>
 <h3 align="left">I use :</h3>
