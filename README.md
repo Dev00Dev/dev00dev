@@ -28,3 +28,6 @@
 # My projetcs 💡 :  
 
 ![alt text](https://i.goopics.net/gva8u7.png)
+Rodrigue (inspired by the famous French comedy by Corneille) is a set of reliable and ecological web services that aim to help a user in his daily life quickly and ecologically. Rodrigue provides a set of tools to write, create, relax, or entertain yourself. Some services and the mobile version are still in beta, but the project is progressing well.
+
+You can test Rodrigue services at this address: https://rodrigue-app.ct.ws
