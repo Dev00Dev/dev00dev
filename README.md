@@ -56,6 +56,14 @@ Demo video : https://rodtv.ct.ws/share/144295hvedo4209F.html
 
 ---
 
+# RodrigueTV
+![alt text](https://i.goopics.net/qixgks.png)
+
+RodrigueAI is a lightweight, straight-to-the-point chatbot client based on Google Gemini.
+http://rodchat.ct.ws/
+
+---
+
 # Serenity
 ![alt text](https://i.goopics.net/l30rdz.png)
 
