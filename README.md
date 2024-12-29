@@ -33,6 +33,7 @@ Current/new projects:
 # My projects 💡 :
 - [Rodrigue Services](#RodrigueServices)
 - [RodrigueTV](#RodrigueTV)
+- [Rodrigue AI](#RodrigueAI)
 - [Serenity](#Serenity)
 
 (Click on a project to go directly to its presentation)
@@ -56,7 +57,7 @@ Demo video : https://rodtv.ct.ws/share/144295hvedo4209F.html
 
 ---
 
-# RodrigueTV
+# RodrigueAI
 ![alt text](https://i.goopics.net/qixgks.png)
 
 RodrigueAI is a lightweight, straight-to-the-point chatbot client based on Google Gemini.
