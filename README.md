@@ -34,11 +34,12 @@ Current/new projects:
 - [Rodrigue Services](#RodrigueServices)
 - [RodrigueTV](#RodrigueTV)
 - [Serenity](#Serenity)
+
+  (Click on a project to go directly to its presentation)
   
 # Old projets : 
 - [Rodrigue AI](#RodrigueAI)
-
-(Click on a project to go directly to its presentation)
+  
 
 # RodrigueServices
 ![alt text](https://i.goopics.net/gva8u7.png)
@@ -71,13 +72,12 @@ You can test the service here : https://rodrigue-app.ct.ws/serenity/index.html?i
 ---
 
 
-# RodrigueAI
+# OLD PROJET - RodrigueAI
 ![alt text](https://i.goopics.net/qixgks.png)
 
-RodrigueAI is a lightweight, straight-to-the-point chatbot client based on Google Gemini.
-http://rodchat.ct.ws/
-
-
+RodrigueAI is a lightweight, straight-to-the-point chatbot client based on Google Gemini. 
+RodChat has (for now) been abandoned. Since Google obviously doesn't match what I wanted as an AI API, I'm looking for different development possibilities.
+---
 
 <img src="https://i.goopics.net/c3g5f9.png" alt="DGECO" width="300">
 Source : EcoIndex
