@@ -77,6 +77,7 @@ You can test the service here : https://rodrigue-app.ct.ws/serenity/index.html?i
 
 RodrigueAI is a lightweight, straight-to-the-point chatbot client based on Google Gemini. 
 RodChat has (for now) been abandoned. Since Google obviously doesn't match what I wanted as an AI API, I'm looking for different development possibilities.
+
 ---
 
 <img src="https://i.goopics.net/c3g5f9.png" alt="DGECO" width="300">
