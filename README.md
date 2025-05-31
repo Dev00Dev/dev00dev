@@ -37,7 +37,7 @@ Current/new projects:
 
   (Click on a project to go directly to its presentation)
   
-# Old projets : 
+# Old projects : 
 - [Rodrigue AI](#RodrigueAI)
   
 
